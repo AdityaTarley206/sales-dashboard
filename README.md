@@ -13,7 +13,8 @@ The goal of this project was to analyze over 50,000 sales records to uncover rev
 - Enabled stakeholders to track revenue and profit KPIs, identifying a projected 15% increase in Q3 sales opportunities.
 
 ## 📸 Dashboard Preview
-> **Note:** *(Take a screenshot of your beautiful Power BI dashboard and drag-and-drop it right here when editing on GitHub!)*
+> <img width="1668" height="937" alt="image" src="https://github.com/user-attachments/assets/767119ca-2eb4-4009-a4fc-b03c782d0a8a" />
+
 
 ## 🚀 How to Run
 1. Execute `sales_analysis.sql` to view the raw data queries.
